@@ -1,5 +1,3 @@
-package ce326.hw2;
-
 public class Board {
     Pawn[][] board = new Pawn[8][8];
     
